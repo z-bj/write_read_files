@@ -1,10 +1,9 @@
-![](https://github.com/z-bj/write_read_fles/blob/master/images.jpg)
+# write_read_files
 
-### write_read_fles
+### [app.js](https://github.com/z-bj/write_read_fles/blob/master/app.js)
 
-[app.js](https://github.com/z-bj/write_read_fles/blob/master/app.js)
+### TERMINAL 
 ```bash
-
 ❯ node app.js
 D - demo
 F - app.js - 527o
